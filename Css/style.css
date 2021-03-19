@@ -6,10 +6,9 @@
 .successful-booking {
    display: flex; 
    justify-content: space-between;
-   flex-direction: column;
-   
+   flex-direction: column;  
 }
-.like  {
+.like {
      margin-top: 20%;
      margin-left: 41%;
 }
@@ -18,8 +17,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: 6%;
-    
+    margin-top: 6%;   
 }
 .inform p{
     text-align: center;
@@ -49,7 +47,5 @@
   font-weight: 400;
   font-size: 16px;
 }
-.fas fa-history{
-    margin-right:5%;
-}
+
 
