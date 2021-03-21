@@ -13,7 +13,7 @@ The project is a urban natural application has been created to people who Shoppi
      2- Abdullah Mzeyed
      3- Ahmed Sameer
      4- Ahmed Sinwar
-     
+      
 * Purposes:
 To prevent the spread of COVID-19 and reduce the potential risk of exposure to our staff and visitors. we will take through this very quick process.
 
