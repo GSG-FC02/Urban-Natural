@@ -1,3 +1,4 @@
+
 /* Self-Declaration Page */
 
 /* Global */
@@ -178,12 +179,6 @@ input[type="radio"] {
     border-radius: 0;
 }
 
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: "Proxima-Nova", "sans-serif", "Segoe UI", Tahoma, Verdana;
-}
 /*  Page No.1 Contact-info  */
 .body-3 {
   display: flex;
@@ -392,10 +387,131 @@ select {
   cursor: pointer;
 }
 
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+    .calender {
+      width:97%; 
+      background:#332f2e; 
+      overflow:hidden; 
+      display:block; 
+      margin-bottom:10px; 
+      margin:0 auto; 
+      margin-top:20px;
+    }
+    .calender2 {
+      padding:10px 10px 10px 10px; 
+      box-sizing:border-box!important; 
+      background:white; 
+    }
+    .first{
+      font:18px 'Quicksand', sans-serif;
+      font-weight:400; 
+      margin-left: 10px;
+    }
+    .calender-body {
+      font:15px 'Quicksand', sans-serif; 
+      font-weight:400; 
+      color:#9AA7AF; 
+      display:inline-block; 
+      margin:20px 6px 10px 10px; 
+      text-transform:uppercase; 
+      text-align:center; 
+      letter-spacing:1px;
+      background: none;
+    
+    }
+    .special{
+      background-color: #90B27B;
+      border-radius: 40%;
+      padding:8px 15px;
+      color:white; 
+    }
+    
+    .calender2 span {
+      font:11px 'Quicksand', sans-serif; 
+      font-weight:800;  
+      text-align:center; 
+      width:42px; 
+      height:42px; 
+      display:inline-block; 
+      float:left; 
+      overflow:hidden; 
+      line-height:40px;
+      margin: 3px;
+      
+    }
+    .round{
+      border:1px solid white; 
+      box-sizing:border-box!important; 
+      border-radius:200px!important;
+    }
+    .circle {
+      background: rgba(144, 178, 123, 0.36);
+      color:#90B27B;
+    }
+    .circle2{
+      background: rgba(144, 178, 123, 0.36); 
+      color: rgba(156, 185, 136, 0.36); ;
+    }
+    .circle3{
+      background: #90B27B;
+      color: #EEEEEE;
+    }
+    .circle4{
+      background: rgba(233, 233, 237, 0.36);
+      color: rgb(180, 177, 177);
+    }
+    .clock{
+      position: relative;
+      width: 50%; 
+    }
+    .line1{
+      position: absolute;
+      background-color: #E9E9ED;;
+      left: 105px;
+      top: 22px;
+      padding: 12px;
+      border-radius: 20%;
+    }
+    .line2{
+      background-color: #90B27B;;
+      position: absolute;
+      left: 190px;
+      top: 22px;
+      padding: 12px;
+      border-radius: 20%;
+      border-radius: 20%;
+    }
+    .line3{
+      position: absolute;
+      background: rgba(233, 233, 237, 0.36);
+      left: 105px;
+      top: 80px;
+      padding: 12px;
+      border-radius: 20%;
+    }
+    .line4{
+     position: absolute;
+     background-color: #E9E9ED;
+      left: 190px;
+      top: 80px;
+      padding: 12px;
+      border-radius: 20%;
+    }
+    .book-btn{
+      position: absolute;
+      left: 132px;
+      top: 155px;
+     
+    }
+    .book-btn button{
+      border-style: none;
+      background-color: #90B27B;
+      border-radius: 6%;
+      padding: 10px 22px;
+      color: white;
+      font-family: 'Quicksand', sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+    }
 }
 .first_page{
     text-align: center;
