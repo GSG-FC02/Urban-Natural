@@ -20,7 +20,7 @@
 
 }
 .urban{
-    font-family: 'Quicksand', sans-serif;;
+    font-family: 'Quicksand', sans-serif;
     font-style: normal;
     font-weight: 500px;
     font-size: 42px;
@@ -110,7 +110,7 @@
 
     margin-top: 65px;
     text-align: center;
-    
+    vertical-align: middle;
 } 
 
 .section__11{
@@ -118,7 +118,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-   
+    vertical-align: middle;
+
 }
 .one{
 
@@ -152,7 +153,7 @@
     font-family:'Quicksand 400', sans-serif;
     font-size: 12px;
     padding-top: 2.2px;
-
+    
 }
 .section_b{
     font-family: 'Quicksand', sans-serif;
