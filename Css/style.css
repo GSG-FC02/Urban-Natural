@@ -1,14 +1,60 @@
 
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.successful-booking {
+   display: flex; 
+   justify-content: space-between;
+   flex-direction: column;  
+}
+.like {
+     margin-top: 20%;
+     margin-left: 41%;
+}
+.inform {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 6%;   
+}
+.inform p{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+}
+.inform .p1{
+    line-height: 25px; 
+    font-size: 23px;
+    font-weight: 500;
+}
+.inform .p2{
+    font-weight: 400;
+    margin-top: 5%;
+    margin-bottom: 12%;
+    font-size: 15px;
+}
+.inform h1{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    margin-bottom: 5%;
+}
+.icons{
+  text-align: center;
+  line-height: 40px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+
+
+
 /* Self-Declaration Page */
 
 /* Global */
-
-* {
-    /* background-color: #E5E5E5; */
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
-}
 
 /* Header Section  */
 
