@@ -1,4 +1,4 @@
-18-before-visit-info
+
 /*  Page No.2 before-ontact-info  */
 /*  second-form  */
 #contact-info-2 {
@@ -55,7 +55,7 @@ select {
   flex-direction: row;
   margin: 25px 0 25px 170px;
 }
-#back-5 {
+.back {
   margin-right: 20px;
   padding: 0.5rem 1.1rem;
   border: 2px solid #90b27b;
@@ -65,7 +65,7 @@ select {
   border-radius: 0.3rem;
   cursor: pointer;
 }
-#next-5 {
+.next {
   padding: 0.5rem 1.1rem;
   outline: none;
   border: none;
@@ -75,7 +75,6 @@ select {
   border-radius: 0.3rem;
   cursor: pointer;
 }
-=======
 
 *{
     padding: 0;
@@ -573,7 +572,6 @@ select {
       width:42px; 
       height:42px; 
       display:inline-block; 
-      float:left; 
       overflow:hidden; 
       line-height:40px;
       margin: 3px;
